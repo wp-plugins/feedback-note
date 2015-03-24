@@ -1,0 +1,140 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+.feedback_note_wraper,
+.feedback_note_wraper html, .feedback_note_wraper  body, .feedback_note_wraper  div, .feedback_note_wraper  span, .feedback_note_wraper  applet, .feedback_note_wraper  object, .feedback_note_wraper  iframe, .feedback_note_wraper 
+.feedback_note_wraper h1, .feedback_note_wraper  h2, .feedback_note_wraper  h3, .feedback_note_wraper  h4, .feedback_note_wraper  h5, .feedback_note_wraper  h6, .feedback_note_wraper  p, .feedback_note_wraper  blockquote, .feedback_note_wraper  pre,
+.feedback_note_wraper a, .feedback_note_wraper  abbr, .feedback_note_wraper  acronym, .feedback_note_wraper  address, .feedback_note_wraper  big, .feedback_note_wraper  cite, .feedback_note_wraper  code, 
+.feedback_note_wraper del, .feedback_note_wraper  dfn, .feedback_note_wraper  em, .feedback_note_wraper  img, .feedback_note_wraper  ins, .feedback_note_wraper  kbd, .feedback_note_wraper  q, .feedback_note_wraper  s, .feedback_note_wraper  samp,
+.feedback_note_wraper small, .feedback_note_wraper  strike, .feedback_note_wraper  strong, .feedback_note_wraper  sub, .feedback_note_wraper  sup, .feedback_note_wraper  tt, .feedback_note_wraper  var,
+.feedback_note_wraper b, .feedback_note_wraper  u, .feedback_note_wraper  i, .feedback_note_wraper  center, 
+.feedback_note_wraper dl, .feedback_note_wraper  dt, .feedback_note_wraper  dd, .feedback_note_wraper  ol, .feedback_note_wraper  ul, .feedback_note_wraper  li,
+.feedback_note_wraper fieldset, .feedback_note_wraper  form, .feedback_note_wraper  label, .feedback_note_wraper  legend,
+.feedback_note_wraper table, .feedback_note_wraper  caption, .feedback_note_wraper  tbody, .feedback_note_wraper  tfoot, .feedback_note_wraper  thead, .feedback_note_wraper  tr, .feedback_note_wraper  th, .feedback_note_wraper  td,
+.feedback_note_wraper article, .feedback_note_wraper  aside, .feedback_note_wraper  canvas, .feedback_note_wraper  details, .feedback_note_wraper  embed, 
+.feedback_note_wraper  figure, .feedback_note_wraper  figcaption, .feedback_note_wraper  footer, .feedback_note_wraper  header, .feedback_note_wraper  hgroup, 
+.feedback_note_wraper  menu, .feedback_note_wraper  nav, .feedback_note_wraper  output, .feedback_note_wraper  ruby, .feedback_note_wraper  section, .feedback_note_wraper  summary,
+.feedback_note_wraper time, .feedback_note_wraper  mark, .feedback_note_wraper  audio, .feedback_note_wraper  video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 10px;
+	font: inherit;
+	vertical-align: baseline;
+	
+}
+
+.feedback_note_wraper,
+.feedback_note_wraper *,
+.feedback_note_wraper *:before,
+.feedback_note_wraper *:after {
+	/* -webkit-box-sizing: inherit; */
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.feedback_note_wraper button, .feedback_note_wraper input, .feedback_note_wraper select, .feedback_note_wraper textarea, .feedback_note_wraper fieldset {
+	font-size: 12px;
+	margin-bottom: 10px;
+}
+
+.feedback_note_wraper fieldset:last-child {
+	
+}
+
+.feedback_note_wraper button, .feedback_note_wraper input[type="button"],.feedback_note_wraper input[type="reset"],.feedback_note_wraper input[type="submit"],.feedback_note_wraper input[type="submit"] {
+	font-size: 14px;
+	padding: 0.8214em 1.5714em;
+} 
+
+.feedback_note_wraper a,.feedback_note_wraper a:hover{
+	text-decoration: none;
+}
+
+.feedback_note_wraper input[type="text"],.feedback_note_wraper input[type="email"],.feedback_note_wraper input[type="url"],.feedback_note_wraper input[type="password"],
+.feedback_note_wraper input[type="search"],.feedback_note_wraper textarea {
+	width: 100%;
+}
+
+
+.feedback_note_wraper button,
+.feedback_note_wraper input,
+.feedback_note_wraper select,
+.feedback_note_wraper textarea {
+	background-color: #f7f7f7;
+	border-radius: 0;
+	font-size: 16px;
+	line-height: 1.5;
+	margin: 0;
+	max-width: 100%;
+	vertical-align: baseline;
+}
+
+
+.feedback_note_wraper button,
+.feedback_note_wraper input[type="button"],
+.feedback_note_wraper input[type="reset"],
+.feedback_note_wraper input[type="submit"] {
+	-webkit-appearance: button;
+	background-color: #333;
+	border: 0;
+	color: #fff;
+	cursor: pointer;
+	font-family: "Noto Sans", sans-serif;
+	font-size: 12px;
+	font-weight: 700;
+	padding: 0.7917em 1.5em;
+	text-transform: uppercase;
+}
+
+.feedback_note_wraper input[type="text"], 
+.feedback_note_wraper input[type="email"], 
+.feedback_note_wraper input[type="url"],
+.feedback_note_wraper input[type="password"],
+.feedback_note_wraper input[type="search"], 
+.feedback_note_wraper textarea {
+padding: 0.5278em;
+}
+
+.feedback_note_wraper textarea {
+	border:none;
+}
+
+
+/* HTML5 display-role reset for older browsers */
+.feedback_note_wraper article, .feedback_note_wraper  aside, .feedback_note_wraper  details, .feedback_note_wraper  figcaption, .feedback_note_wraper  figure,
+.feedback_note_wraper footer, .feedback_note_wraper  header, .feedback_note_wraper  hgroup, .feedback_note_wraper  menu, .feedback_note_wraper  nav, .feedback_note_wraper  section {
+	display: block;
+}
+.feedback_note_wraper body {
+	line-height: 1;
+}
+.feedback_note_wraper ol, .feedback_note_wraper  ul {
+	list-style: none;
+}
+.feedback_note_wraper blockquote, .feedback_note_wraper  q {
+	quotes: none;
+}
+.feedback_note_wraper blockquote:before, .feedback_note_wraper  blockquote:after, .feedback_note_wraper 
+q:before, .feedback_note_wraper  q:after {
+	content: '';
+	content: none;
+}
+.feedback_note_wraper table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+.feedback_note_wraper {
+	font-size:10px;
+	margin: 0;
+	font-family: "Open Sans", sans-serif;
+	color: #6e6e6e;
+	background-color: #f4f4f4;
+}
+
+
+.feedback_note_wraper .green {
+	color: green;
+}

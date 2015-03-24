@@ -1,0 +1,29 @@
+#check_note{
+	margin-bottom: 0;
+	margin-top: 0;
+}
+#export_to_basecamp{
+	display: none;
+}
+#export_to_trello{
+	display: none;
+}
+#select_project_managing_tool_button{
+	vertical-align: middle;
+}
+.status_note{
+	width: 88px;
+}
+.select_tool{
+	width: 150px;
+}
+.tr_class{
+		color: #3D3D3D;
+	padding: 4px;
+	background-color: #FFF;
+	vertical-align: top;
+}
+html{
+	background: none;
+}
+table tr.active {background: #ccc;}
