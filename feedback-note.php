@@ -598,7 +598,7 @@ function register_feedback_note_menu_page() {
 
 function create_feedbacknote_admin_page() {
     global $title;
-    include "../wp-content/plugins/feedbacknote/feedback-note-admin-page.php";
+    include plugin_dir_path(__FILE__) . "feedback-note-admin-page.php";
 }
 
 function feedbacknote_admin_page_assets() {
